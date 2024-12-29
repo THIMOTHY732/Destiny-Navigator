@@ -40,31 +40,31 @@
 ---
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
-   git clone https://github.com/THIMOTHY732/Destiny-Navigator.git .
-2.Navigate to the project directory:
-  cd Destiny-Navigator.
-3.Install dependencies:
-  pip install -r requirements.txt .
-4.Run the application:
-  python app.py .
+- 1. Clone the repository:
+   git clone https://github.com/THIMOTHY732/Destiny-Navigator.git 
+- 2.Navigate to the project directory:
+  cd Destiny-Navigator
+- 3.Install dependencies:
+  pip install -r requirements.txt 
+- 4.Run the application:
+  python app.py 
 
 ## 🤝 Contributing
 Contributions are welcome!
 To contribute:
 
-1.Fork the repository.
-2.Create a new branch:
+- 1.Fork the repository.
+- 2.Create a new branch:
   git checkout -b feature-name .
-3.Make your changes and commit:
+- 3.Make your changes and commit:
   git commit -m "Add your message here" .
-4.Push to the branch:
+- 4.Push to the branch:
   git push origin feature-name .
-5.Open a pull request on GitHub.
+- 5.Open a pull request on GitHub.
 
 ## 🙌 Acknowledgments
-The creators of Python, Flask, and other libraries used in this project.
-Various e-learning platforms for their valuable resources.
+- The creators of Python, Flask, and other libraries used in this project.
+- Various e-learning platforms for their valuable resources.
 
 ## 🧑‍💻 Author
 K. Thimothi,
