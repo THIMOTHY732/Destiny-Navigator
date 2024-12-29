@@ -41,7 +41,9 @@
 
 ## 🚀 How to Run the Project
 - 1.Clone the repository:
-   git clone https://github.com/THIMOTHY732/Destiny-Navigator.git 
+    ```bash
+    git clone https://github.com/THIMOTHY732/Destiny-Navigator.git
+    ```
 - 2.Navigate to the project directory:
   cd Destiny-Navigator
 - 3.Install dependencies:
